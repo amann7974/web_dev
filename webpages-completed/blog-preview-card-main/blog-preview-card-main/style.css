@@ -1,0 +1,73 @@
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 900 */
+
+.main {
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500,800;
+  font-style: normal;
+}
+
+
+body{
+    background-color: hsl(47, 88%, 63%);
+}
+
+.aman{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main{
+
+    border-right: solid black 15px;
+    border-bottom: solid black 15px;
+    border-left: solid black 2px;
+    border-top: solid black 2px;
+    border-radius: 20px;
+    height: 650px;
+    width: 500px;
+    background-color: white;
+}
+
+.small0{
+   
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}    
+
+.small1{
+    margin: 15px;
+    border-radius: 20px;
+}
+
+.small1 img{
+    height: 300px;
+    width: 450px;
+    border-radius: 10%;
+}
+
+.small2{
+    background-color: hsl(47, 88%, 63%);
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 15px;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+.small3{
+    text-align: left;
+    margin: 15px;
+    text-align: left;
+}
+
+.small3 img{
+    float: left;
+    margin-right: 15px;
+}
