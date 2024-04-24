@@ -1,0 +1,51 @@
+.aman{
+    background-color: green;
+}
+
+.white{
+    background-color: whitesmoke;
+}
+
+.container1{
+    display: flex;
+    height: 400px;
+    width: 800px;
+    background-color: black;
+}
+
+.container3{
+    display: flex;
+    height: 1200px;
+    width: 800px;
+    background-color: wheat;
+}
+
+.col1{
+    background-color: orange;
+    height: 300px;
+    width: 700px;
+}
+
+.col2{
+    background-color: rgb(185, 136, 136);
+    height: 600px;
+    width: 300px;
+}
+
+.col3{
+    background-color: grey;
+    height: 600px;
+    width: 300px;
+}
+
+.col4{
+    background-color: brown;
+    height: 600px;
+    width: 300px;
+}
+
+.col5{
+    background-color: yellowgreen;
+    height: 600px;
+    width: 300px;
+}

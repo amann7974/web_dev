@@ -1,0 +1,98 @@
+.aman{
+    height: 100%;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+}
+
+.main{
+    height: 500px;
+    width: 1000px;
+    background-color: yellowgreen;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.ananya{
+    height:400px;
+    width: 500px;
+    /* background-color: blue; */
+    /* margin-left: 240px; */
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+
+
+.aman{
+  font-family: "Karla", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400 700;
+  font-style: normal;
+}
+
+.content1, .content2{
+    height: 220px;
+    width: 550px;
+    align-items: center;
+    /* gap: 20px; */
+}
+
+.content1{
+    background-color: hsl(71, 73%, 54%);
+    /* height: 180px; */
+}
+
+.content2{
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box1{
+    height: 200px;
+    width: 260px;
+    background-color: hsl(204, 43%, 93%);
+    /* gap: 30px; */
+    /* margin: 20px; */
+}
+
+.box2{
+    height: 200px;
+    width: 260px;
+    background-color: hsl(218, 22%, 67%);
+    margin-left: -10px;
+}
+
+
+/* Cyan: hsl(179, 62%, 43%)
+- Bright Yellow: hsl(71, 73%, 54%)
+
+### Neutral
+
+- Light Gray: hsl(204, 43%, 93%)
+- Grayish Blue: hsl(218, 22%, 67%) */
+
+
+.radha{
+    background-color: blue;
+    height: 200px;
+    width: 510px;
+    margin: 20px;
+    margin-top: 10px;
+    /* display: inline-block;
+    align-items: center;
+    justify-content: center; */
+}
+
+/* .vallabh{
+    background-color: rebeccapurple;
+    height: 200px;
+    width: 550px;
+} */
