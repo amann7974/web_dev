@@ -1,0 +1,58 @@
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    align-items: center;
+    justify-content: center;
+}
+
+.aman{
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400, 700;
+  font-style: normal;
+}
+
+.aman{
+    /
+}
+
+.main{
+    height: 800px;
+    width: 600px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.para{
+    text-align: center;
+    font-size: 15px;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.para p{
+    color: gray;
+}
+
+.scanner img{
+    border-radius: 20px;
+    margin: 20px;
+    height: 500px;
+    width: 560px;
+}
+
+@media only screen and (max-width: 375px) {
+    .main {
+        width: 90%; 
+    }    
+
+    .scanner img {
+        height: auto; 
+    }
+}
+
+/* @media only screen and (min-width: 376px) and (max-width: 1440px) {
+} */

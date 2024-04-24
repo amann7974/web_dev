@@ -1,0 +1,113 @@
+.aman{
+    background-color: hsl(233, 47%, 7%);
+    /* background-color: green; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.main{
+    height: 400px;
+    width: 900px;
+    background-color: rgb(240, 235, 235);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 100px;
+}
+
+
+.content2 , .content1{
+    height: 400px;
+    width: 900px;
+}
+
+.content2 img{
+    height: 400px;
+    width: 450px;
+}
+
+.content1{
+    background-color: hsl(244, 38%, 16%);
+}
+
+.content2{
+    /* background-color: hsl(277, 64%, 61%); */
+    color: hsl(277, 64%, 61%);
+}
+
+.para1{
+    color: hsl(0, 0%, 100%);
+    margin: 40px;
+    margin-top: 60px;
+    /* background-color: yellow; */
+}
+
+.para1 strong{
+    color: rgb(214, 136, 214);
+}
+
+.para2{
+    color: hsla(0, 0%, 100%, 0.75);
+    margin: 40px;
+    /* background-color: red; */
+}
+
+.para3 h2{
+    /* color: hsla(0, 0%, 100%, 0.6); */
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.para3 p{
+    color: hsla(0, 0%, 100%, 0.6);
+}
+
+.para3{
+    margin: 40px;
+    display: flex;
+    gap: 50px;
+    /* background-color: green;
+    margin-bottom: 50%; */
+}
+
+
+/* .content2 img{
+    background-image: linear-gradient(hsl(277, 64%, 61%)), url(./images/image-header-desktop.jpg);
+} */
+
+/* height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(65, 65, 73, 0.7),rgba(58, 58, 71, 0.7)), url(./image/SLIET_Longowal_Main_Building.jpg);
+    background-position: center;
+    background-size: cover;  */
+
+/* .content2{
+    height: 150vh;
+    width: 50%;
+    background-image: linear-gradient(rgba(90, 90, 192, 0.7),rgba(44, 206, 58, 0.7)), url(./images/image-header-desktop.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}  */
+
+.content2 img{
+    background-blend-mode: color light;
+}
+
+
+.aman{
+  font-family: "Lexend Deca", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.aman{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400 700;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
